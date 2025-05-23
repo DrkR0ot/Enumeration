@@ -60,6 +60,7 @@ Tools should follow these guidelines:
 - Should focus on *active enumeration* or *intelligence gathering*
 
 Pull Requests are welcome!
+Or contact me on discord: **darkryz#8163**
 
 ---
 
