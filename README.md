@@ -33,9 +33,6 @@ No bloated frameworks. No overengineering. Just clean Python, shell, and hacker 
 
 ---
 
-
----
-
 ## 🧑‍💻 For Whom?
 
 - Red Team Operators  
