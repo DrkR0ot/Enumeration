@@ -19,7 +19,7 @@ Each tool in this directory is designed with the following in mind:
 | Tool Name    | Description                                       | Status      |
 |-------------|----------------------------------------------------|-------------|
 | `EasyFuzzy`   | Smart wrapper around `ffuf` with filtering logic | ✅ Released |
-| Enumeration-RPC | Enumeration for AD through RPC                 | ✅ Released   |
+| `Enumeration-RPC` | Enumeration for AD through RPC                 | ✅ Released   |
 | *(More soon)*| DNS, subdomain, ports, etc.                       | 🛠️ In dev   |
 
 ---
